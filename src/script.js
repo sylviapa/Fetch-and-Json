@@ -15,10 +15,12 @@ async function getDegrees(url) {
 */
 
 document.addEventListener("DOMContentLoaded", function(event) {
-  fetch('my_degree.json')
+  fetch('./src/my_degree.json')
     .then(response => response.json())
     .then(data => { 
-    
+
+      console.log(data);
+
       const table = document.createElement('table');
     
       let tr = document.createElement('tr');
