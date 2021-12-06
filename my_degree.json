@@ -1,0 +1,22 @@
+{
+	"degrees": [
+    {
+      "School":"Renmin University of China",
+      "Program_Major":"Literature",
+      "Type":"BA",
+      "Year_conferred":"2014"
+    },
+    {
+      "School":"Fordham University",
+      "Program_Major":"Taxation",
+      "Type":"MS",
+      "Year_conferred":"2016"
+    },
+    {
+      "School":"Boston University",
+      "Program_Major":"Software Development program",
+      "Type":"MS",
+      "Year_conferred":"2022"
+    }
+  ]
+}

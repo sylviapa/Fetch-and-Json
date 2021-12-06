@@ -1,0 +1,24 @@
+body {
+    font-size: 1rem;
+    font-family: 'Lato', sans-serif;
+    color: rgb(30, 47, 65);
+    line-height: 2;
+}
+
+/* Style the tables */
+table, td, th {
+  border: 1px solid #ddd;
+  padding:8px
+}
+  
+  tr:nth-child(even){background-color:rgba(192, 205, 228, 0.3)}
+
+  th {
+    background-color: rgb(30, 47, 65);
+    color:white
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
