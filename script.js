@@ -15,7 +15,7 @@ async function getDegrees(url) {
 */
 
 document.addEventListener("DOMContentLoaded", function(event) {
-  fetch('./src/my_degree.json')
+  fetch('./my_degree.json')
     .then(response => response.json())
     .then(data => { 
 
